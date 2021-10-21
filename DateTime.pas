@@ -6,6 +6,16 @@ function LaterInYear(): integer;
 begin
 end;
 
+function DaysInYear (): integer;
+begin
+  
+end;
+
+function DaysInYearRange (): integer;
+begin
+  
+end;
+
 begin
   
 end.
